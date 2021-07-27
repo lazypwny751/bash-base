@@ -6,7 +6,7 @@ bash base is a simple text storage library, you can open tables in the data you 
 Use the package manager [themis](https://github.com/ByCh4n-Group/themis) to install bash-base.
 
 ```bash
-themis install bash-base
+~# themis install bash-base
 ```
 ## Usage
 
