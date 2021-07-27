@@ -17,7 +17,7 @@ if [[ ! -e ./meraba-dunya.bb ]] ; then
     bb-create-base "meraba-dunya" "aa"
 fi
 
-bb-create-tables "meraba-dunya.bb" "bb" "cc" "dd" "ee" "qq"
+bb-create-tables "meraba-dunya.bb" "aa" "bb" "cc" "dd" "ee" "qq"
 
 bb-list-tables "meraba-dunya.bb"
 
